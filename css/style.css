@@ -1,0 +1,31 @@
+.time
+{
+
+  padding: 15px 15px 5px 15px;
+  border: 8px solid #f1f1f1;
+
+}
+.time p
+{
+  font-size: 14px;
+  padding-top:8px;
+  color: #000;
+}
+.layer-overlay.overlay-deep::before {
+    background-color: rgba(0,0,0,0.5);
+}
+ .AD.font-28
+{
+	color: #fff;
+}
+.Homeb.breadcrumb.white li a {
+    color: #fff;
+}
+
+.aboutd.text-theme-colored {
+    color: #fff !important;
+}
+.time .fa
+{
+	color:#e10e81;
+}

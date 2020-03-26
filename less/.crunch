@@ -1,0 +1,203 @@
+{
+	"files": {
+		"style-main.less": {
+			"engines": [
+				{
+					"compiler": "less",
+					"output": "../css/style-main.css",
+					"options": {
+						"compress": false,
+						"ieCompat": false,
+						"strictMath": false,
+						"strictUnits": false,
+						"javascriptEnabled": false,
+						"sourcemap": false
+					}
+				}
+			],
+			"sources": [
+				"less-medinova/mixins.less",
+				"less-medinova/widgets.less",
+				"less-medinova/nav.less",
+				"less-bootstrap/mixins.less",
+				"less-medinova/overlay.less",
+				"less-bootstrap/mixins/background-variant.less",
+				"less-medinova/portfolio-gallery.less",
+				"less-bootstrap/mixins/buttons.less",
+				"less-medinova/services.less",
+				"less-bootstrap/mixins/clearfix.less",
+				"less-medinova/shop.less",
+				"less-bootstrap/mixins/gradients.less",
+				"less-medinova/shortcodes.less",
+				"less-bootstrap/mixins/grid.less",
+				"less-medinova/shortcodes/alerts.less",
+				"less-bootstrap/mixins/image.less",
+				"less-medinova/shortcodes/blockquote.less",
+				"less-bootstrap/mixins/list-group.less",
+				"less-medinova/shortcodes/buttons.less",
+				"less-bootstrap/mixins/nav-vertical-align.less",
+				"less-medinova/shortcodes/clients.less",
+				"less-bootstrap/mixins/pagination.less",
+				"less-medinova/shortcodes/countdown-timer.less",
+				"less-bootstrap/mixins/progress-bar.less",
+				"less-medinova/shortcodes/countdown.less",
+				"less-bootstrap/mixins/reset-text.less",
+				"less-medinova/shortcodes/dividers.less",
+				"less-bootstrap/mixins/responsive-visibility.less",
+				"less-medinova/shortcodes/facebook-disqus-comments.less",
+				"less-bootstrap/mixins/tab-focus.less",
+				"less-medinova/shortcodes/faqs.less",
+				"less-bootstrap/mixins/text-emphasis.less",
+				"less-medinova/shortcodes/flex-slider.less",
+				"less-bootstrap/mixins/vendor-prefixes.less",
+				"less-medinova/shortcodes/flip-box.less",
+				"less-medinova/about.less",
+				"less-medinova/shortcodes/font-icons.less",
+				"less-medinova/box-hover-effect.less",
+				"less-medinova/shortcodes/funfacts.less",
+				"less-medinova/common.less",
+				"less-medinova/shortcodes/icon-box.less",
+				"less-medinova/event.less",
+				"less-medinova/shortcodes/infinitescroll.less",
+				"less-medinova/footer.less",
+				"less-medinova/shortcodes/instagram.less",
+				"less-medinova/header.less",
+				"less-medinova/shortcodes/lightbox.less",
+				"less-medinova/inner-header-title.less",
+				"less-medinova/shortcodes/map.less",
+				"less-medinova/menu-full-page.less",
+				"less-medinova/shortcodes/pegination.less",
+				"less-bootstrap/mixins/border-radius.less",
+				"less-medinova/shortcodes/pricing.less",
+				"less-bootstrap/mixins/forms.less",
+				"less-medinova/shortcodes/process-steps.less",
+				"less-bootstrap/mixins/hide-text.less",
+				"less-medinova/shortcodes/progress-bar.less",
+				"less-bootstrap/mixins/nav-divider.less",
+				"less-medinova/shortcodes/promo.less",
+				"less-bootstrap/mixins/panels.less",
+				"less-medinova/shortcodes/section-title.less",
+				"less-bootstrap/mixins/resize.less",
+				"less-medinova/shortcodes/separators.less",
+				"less-bootstrap/mixins/table-row.less",
+				"less-medinova/shortcodes/social-icons.less",
+				"less-bootstrap/variables.less",
+				"less-medinova/shortcodes/tabs.less",
+				"less-medinova/boxed-layout.less",
+				"less-medinova/shortcodes/team.less",
+				"less-medinova/extra.less",
+				"less-medinova/shortcodes/testimonials.less",
+				"less-medinova/home.less",
+				"less-medinova/shortcodes/toggles-accordions.less",
+				"less-bootstrap/mixins/alerts.less",
+				"less-medinova/shortcodes/vertical-timeline.less",
+				"less-bootstrap/mixins/grid-framework.less",
+				"less-medinova/shortcodes/working-process.less",
+				"less-bootstrap/mixins/opacity.less",
+				"less-medinova/side-push-panel.less",
+				"less-bootstrap/mixins/size.less",
+				"less-medinova/sliders.less",
+				"less-medinova/blog.less",
+				"less-medinova/table-of-content.less",
+				"less-medinova/form.less",
+				"less-bootstrap/mixins/center-block.less",
+				"less-medinova/vertical-nav.less",
+				"less-medinova/variables.less",
+				"less-medinova/typography.less",
+				"less-medinova/topbar.less",
+				"less-bootstrap/mixins/labels.less",
+				"less-medinova/job.less",
+				"less-medinova/contact.less",
+				"less-bootstrap/mixins/text-overflow.less",
+				"less-bootstrap/mixins/reset-filter.less"
+			]
+		},
+		"style-main-dark.less": {
+			"engines": [
+				{
+					"compiler": "less",
+					"output": "../css/style-main-dark.css",
+					"options": {
+						"compress": false,
+						"ieCompat": false,
+						"strictMath": false,
+						"strictUnits": false,
+						"javascriptEnabled": false,
+						"sourcemap": false
+					}
+				}
+			],
+			"sources": [
+				"less-medinova/variables.less"
+			]
+		},
+		"less-theme-color/theme-skin-color.less": {
+			"engines": [
+				{
+					"compiler": "less",
+					"output": "../../css/colors/theme-skin-red.css",
+					"options": {
+						"compress": false,
+						"ieCompat": false,
+						"strictMath": false,
+						"strictUnits": false,
+						"javascriptEnabled": false,
+						"sourcemap": false
+					}
+				}
+			],
+			"sources": [
+				"../less-bootstrap/mixins.less",
+				"../less-bootstrap/mixins/alerts.less",
+				"../less-bootstrap/mixins/background-variant.less",
+				"../less-bootstrap/mixins/border-radius.less",
+				"../less-bootstrap/mixins/buttons.less",
+				"../less-bootstrap/mixins/center-block.less",
+				"../less-bootstrap/mixins/clearfix.less",
+				"../less-bootstrap/mixins/forms.less",
+				"../less-bootstrap/mixins/gradients.less",
+				"../less-bootstrap/mixins/grid-framework.less",
+				"../less-bootstrap/mixins/grid.less",
+				"../less-bootstrap/mixins/hide-text.less",
+				"../less-bootstrap/mixins/image.less",
+				"../less-bootstrap/mixins/labels.less",
+				"../less-bootstrap/mixins/list-group.less",
+				"../less-bootstrap/mixins/nav-divider.less",
+				"../less-bootstrap/mixins/nav-vertical-align.less",
+				"../less-bootstrap/mixins/opacity.less",
+				"../less-bootstrap/mixins/pagination.less",
+				"../less-bootstrap/mixins/panels.less",
+				"../less-bootstrap/mixins/progress-bar.less",
+				"../less-bootstrap/mixins/reset-filter.less",
+				"../less-bootstrap/mixins/reset-text.less",
+				"../less-bootstrap/mixins/resize.less",
+				"../less-bootstrap/mixins/responsive-visibility.less",
+				"../less-bootstrap/mixins/size.less",
+				"../less-bootstrap/mixins/tab-focus.less",
+				"../less-bootstrap/mixins/table-row.less",
+				"../less-bootstrap/mixins/text-emphasis.less",
+				"../less-bootstrap/mixins/text-overflow.less",
+				"../less-bootstrap/mixins/vendor-prefixes.less",
+				"../less-bootstrap/variables.less",
+				"../less-medinova/variables.less"
+			]
+		},
+		"style-main-rtl-extra.less": {
+			"engines": [
+				{
+					"compiler": "less",
+					"output": "../css/style-main-rtl-extra.css",
+					"options": {
+						"compress": false,
+						"ieCompat": false,
+						"strictMath": false,
+						"strictUnits": false,
+						"javascriptEnabled": false,
+						"sourcemap": false
+					}
+				}
+			],
+			"sources": []
+		}
+	}
+}
